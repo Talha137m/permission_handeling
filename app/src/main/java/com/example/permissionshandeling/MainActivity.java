@@ -24,6 +24,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
+    ///This is the single permission handeling
     Button btn;
     EditText et;
     ActivityResultLauncher<String> activityResultLauncher;
